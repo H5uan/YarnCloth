@@ -1,5 +1,5 @@
 # Yarn-Cloth
-A yarn cloth rendering implemented by XPBD and OpenGL. Final project for CS 6610 at University of Utah.
+A yarn cloth rendering implemented by OpenGL. Final project for CS 6610 at University of Utah.
 
 ## Model Source
 The yarn-level cloth models comes from http://www.cemyuksel.com/research/yarnmodels.  
